@@ -1,2 +1,2 @@
 # Dream-Home
-This prokect is under proces..
+This project is under proces..
